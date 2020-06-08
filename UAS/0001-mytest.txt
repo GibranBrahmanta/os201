@@ -5,7 +5,7 @@ GibranBrahmanta
 $ echo $PSTAMP
 TMP1="$(date +%y%m%d-%H%M%S)"; TMP2="$(echo $TMP1-$GitHubUser-${PWD##*/}|sha1sum|cut -c1-4)"; echo "$TMP1-$TMP2-${PWD##*/}/> ";
 $ eval $PSTAMP
-200601-103324-5379-gibran.brahmanta/>
+200601-103324-5e79-gibran.brahmanta/>
 $ PS1="\$(eval \$PSTAMP)"
 200601-103342-e2b9-gibran.brahmanta/> date
 Mon Jun  1 10:34:17 WIB 2020
