@@ -1,4 +1,4 @@
-Script started, file is 0001-mytest.txt
+Script started on Mon 01 Jun 2020 10:33:01 AM WIB
 gibran.brahmanta@badak:~$ PS1="$ "
 $ echo $GitHubUser
 GibranBrahmanta
@@ -13,3 +13,6 @@ Mon Jun  1 10:34:17 WIB 2020
 /home/fasilkom/mahasiswa/g/gibran.brahmanta/.gnupg/pubring.gpg
 --------------------------------------------------------------
 pub   4096R/3B4D2F2F 2020-05-29gibran.brahmanta@badak:~$
+200601-103429-d435-gibran.brahmanta/> exit
+exit
+Script done on Mon 01 Jun 2020 10:35:19 AM WIB
