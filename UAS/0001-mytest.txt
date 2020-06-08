@@ -9,7 +9,7 @@ $ eval $PSTAMP
 $ PS1="\$(eval \$PSTAMP)"
 200601-103342-6bc7-gibran.brahmanta/> date
 Mon Jun  1 10:34:17 WIB 2020
-200601-103417-4716-gibran.brahmanta/> gpg2 --list-keys
+200601-103417-f716-gibran.brahmanta/> gpg2 --list-keys
 /home/fasilkom/mahasiswa/g/gibran.brahmanta/.gnupg/pubring.gpg
 --------------------------------------------------------------
 pub   4096R/3B4D2F2F 2020-05-29
